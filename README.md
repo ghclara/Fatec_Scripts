@@ -1,4 +1,4 @@
 Fatec_Scripts
 =============
 
-Repositório para aula de programação para Scripts
+Repositório para aula de programação em Scripts.
